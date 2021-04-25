@@ -1,0 +1,31 @@
+body {
+    background-color: #545457;
+    color: whitesmoke;
+}
+
+input#input {
+    border: 0px;
+    border-radius: 5px;
+}
+
+button#botao-ordenar {
+    background: #094061;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    height: 18.5px;
+    width: 60px;
+    font: 10px arial, sans-serif;
+}
+
+form {
+    text-align: center;
+}
+
+div#arrays {
+    text-align: center;
+}
+
+/* div#sort {
+    text-align: center;
+} */
